@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujit Kumar</h1>
-[![Sujit Kumar StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5060770&theme=dark)](https://stackoverflow.com/users/5060770/sujit-kumar)
+
 
 <h3 align="center">Creative Senior Software Engineer offering 7.5 years of experience. Enthusiastic about developing forward-thinking solutions to tomorrow's productivity problems. Expertise in building Cloud Native Highly Scalable, low latency, and fault-tolerant Distributed systems following Agile methodologies.</h3>
 
